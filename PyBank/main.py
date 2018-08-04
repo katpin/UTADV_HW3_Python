@@ -3,7 +3,8 @@ import csv
 import os
 
 #Specify the file
-file = os.path.join('Resources','budget_data.csv')
+file = 'C:\\Users\\Kat\\Dropbox\\Work\\Data Boot Camp\\HW\\python_challenge\\PyBank\\Resources\\budget_data.csv'
+#file = os.path.join('Resources','budget_data.csv')
 
 #Open the file to be read and set the contents to list
 with open(file, newline='') as csvfile:

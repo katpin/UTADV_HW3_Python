@@ -1,2 +1,3 @@
-# python_challenge
-UT Austin Boot Camp HW#3
+# UTADV_HW3_Python
+UT Austin Data Visualization Boot Camp Week 3 Homework \
+PyBank and PyPoll
